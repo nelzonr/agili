@@ -4,6 +4,7 @@ Agili - Mapeamento do transporte público de São Paulo
 Descrição
 ---------
 Este projeto visa coletar dados dos veículos de transporte público de São Paulo para a realização de um estudo de Big Data.
+
 A análise da coleta dos dados deverá responder basicamente as seguintes perguntas:
  - Quais linhas e rotas estão com muita ou pouca demanda?
  - Quais são os horários que em que estas linhas/rotas podem ser otimizadas?
@@ -19,7 +20,7 @@ Requisitos
  - [MongoDB] ^3.4
  - [SPTrans] Token API Olho Vivo
  
- Exemplo de dados coletados em tempo real que serão armazanedos no banco NoSQL
+ Exemplo de dados coletados em tempo real que serão armazenados no banco NoSQL
 ----------
    ```
 {
