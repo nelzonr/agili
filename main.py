@@ -7,11 +7,10 @@ from pprint import pprint
 from pymongo import MongoClient
 
 import config
-
+sptrans_url = 'http://api.olhovivo.sptrans.com.br/v2.1'
 session = requests.Session()
 
-sptrans_url = 'http://api.olhovivo.sptrans.com.br/v2.1'
-
+# Funções #
 def autenticar():
     r = session.post(sptrans_url + '/Login/Autenticar?token=' + config.sptrans_token)
     if r.status_code != 200:
@@ -55,8 +54,7 @@ def salvarDados(dado):
     collection = db['posicoes']
     collection.insert_one(dado)
 
-#salvarDados(1)
-#quit()
+# Init #
 autenticar()
 
 if type(config.linhas) != list:
@@ -69,8 +67,6 @@ for linha in config.linhas:
     if(len(codigo_linha) > 0):
         for codigo in codigo_linha:
             posicoes_veiculos = posicoesVeiculos(codigo['cl'])
-            #pprint(posicoes_veiculos)
             prepararDados(codigo, posicoes_veiculos)
     else:
         print("A linha {} não foi encontrada no sistema".format(linha))
-
