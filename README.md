@@ -17,7 +17,7 @@ Requisitos
  - [Python] ^3.6
  - [Python > Requests]
  - [Python > PyMongo]
- - [MongoDB] ^3.4
+ - [MongoDB] ^3.4 (opcional)
  - [SPTrans] Token API Olho Vivo
  
  Exemplo de dados coletados em tempo real que serão armazenados no banco NoSQL
@@ -38,3 +38,14 @@ Requisitos
     "data_hora" : ISODate("2019-04-15T04:33:45.000Z")
 }
   ```
+
+Notas
+-----
+- Este script está sendo executado a cada 1 minuto em uma instancia do Google Cloud Plataform (CentOS 7) com um agendador de tarefas
+- Todos os dados dos veículos de 3 linhas diferentes estão sendo armazenados para estudos de Big Data
+- O script foi escrito em Python de forma funcional para que seja o mais didático possível
+- Caso deseje obter um token para visualizar o funcionamento do script acesse http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/
+- Caso deseje configurar o script apenas para visualizar o output dos dados sem utilizar banco de dados configure a opção ```salvar_banco_dados = False``` no arquivo [config.py]
+- Caso deseje acessar de forma visual alguma linha da SPTrans acesse http://olhovivo.sptrans.com.br
+
+[config.py]:https://github.com/nkramirez/agili/blob/master/config.py
