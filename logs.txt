@@ -1,0 +1,108 @@
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 5, 56, "
+ '46)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 5, 57, "
+ '30)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 5, 59, "
+ '2)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 5, 59, "
+ '47)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 0, "
+ '32)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 2, "
+ '2)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 2, "
+ '46)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 3, "
+ '31)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 4, "
+ '16)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 5, "
+ '46)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 6, "
+ '33)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 7, "
+ '17)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 8, "
+ '47)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 9, "
+ '32)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 10, "
+ '18)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 11, "
+ '47)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 12, "
+ '33)}')
+'----------------'
+("{'linha': '695Y', 'codigo_linha': 34390, 'circular': False, 'sentido': 2, "
+ "'letreiro_ida': 'TERM. PARELHEIROS', 'letreiro_volta': 'CPTM AUTÓDROMO', "
+ "'id_veiculo': '61098', 'acessivel': True, 'latitude': -23.7668215, "
+ "'longitude': -46.717299, 'data_hora': datetime.datetime(2021, 6, 26, 6, 13, "
+ '18)}')
+'----------------'
